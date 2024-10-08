@@ -16,8 +16,10 @@
 ## Compile and run the project
 
 ```bash
-
  npm run start
+```
 
+```bash
 open the link 
 http://localhost:3000/api#/
+```
